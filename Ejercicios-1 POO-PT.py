@@ -54,3 +54,4 @@ def main_poo():
     print(f"El promedio semanal de humedad es: {promedio:.2f}%")
 
 main_poo()
+
